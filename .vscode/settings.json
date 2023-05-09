@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./tools/file_manager",
+        "./tools/data_manager",
+        "./tools/plot_manager"
+    ]
+}
